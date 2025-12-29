@@ -5,7 +5,7 @@ This project demonstrates an end-to-end healthcare analytics workflow using **Cl
 The goal is to clean, transform, analyze, and visualize patient outcomes, adverse events, and lab results
 to support data-driven clinical insights.
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib)
 - SQL Server
 - Power BI
