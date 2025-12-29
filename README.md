@@ -1,6 +1,6 @@
 # Clinical Trial Data Analysis (End-to-End)
 
-## 📌 Project Overview
+##  Project Overview
 This project demonstrates an end-to-end healthcare analytics workflow using **Clinical Trial data**.
 The goal is to clean, transform, analyze, and visualize patient outcomes, adverse events, and lab results
 to support data-driven clinical insights.
@@ -11,7 +11,7 @@ to support data-driven clinical insights.
 - Power BI
 - Excel
 
-## 📂 Project Workflow
+##  Project Workflow
 1. Raw clinical trial data ingestion from Excel
 2. Data cleaning & preprocessing using Python
 3. Feature engineering (Age, BMI, Risk Flags, AE counts)
@@ -19,7 +19,7 @@ to support data-driven clinical insights.
 5. Loading cleaned data into SQL Server
 6. Power BI dashboard creation with advanced features
 
-## 🧪 Key Features
+## Key Features
 - Patient-level dimensional modeling
 - Robust date parsing and normalization
 - BMI & age-based risk classification
@@ -32,7 +32,7 @@ to support data-driven clinical insights.
   - Drill-through
   - Maps
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 Dashboard includes:
 - Patient demographics analysis
 - High-risk patient identification
